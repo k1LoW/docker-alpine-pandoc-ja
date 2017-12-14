@@ -1,6 +1,7 @@
 FROM frolvlad/alpine-glibc
 
-LABEL maintainer "k1LoW <k1lowxb@gmail.com>"
+LABEL maintainer="k1LoW <k1lowxb@gmail.com>" \
+      description="Pandoc for Japanese based on Alpine Linux."
 
 # Install Pandoc
 ENV PANDOC_VERSION 2.0.2

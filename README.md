@@ -1,6 +1,6 @@
-# alpine-pandoc-ja
+# alpine-pandoc-ja [![Docker Automated build](https://img.shields.io/docker/automated/k1low/alpine-pandoc-ja.svg?style=flat-square)](https://hub.docker.com/r/k1low/alpine-pandoc-ja/) [![Docker Automated build](https://img.shields.io/docker/build/k1low/alpine-pandoc-ja.svg?style=flat-square)](https://hub.docker.com/r/k1low/alpine-pandoc-ja/)
 
-Pandoc for Japanese based on Alpine Linux
+Pandoc for Japanese based on Alpine Linux.
 
 ## Usage
 
