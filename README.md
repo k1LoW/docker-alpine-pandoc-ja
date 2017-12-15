@@ -1,4 +1,4 @@
-# alpine-pandoc-ja [![Docker Automated build](https://img.shields.io/docker/automated/k1low/alpine-pandoc-ja.svg?style=flat-square)](https://hub.docker.com/r/k1low/alpine-pandoc-ja/) [![Docker Automated build](https://img.shields.io/docker/build/k1low/alpine-pandoc-ja.svg?style=flat-square)](https://hub.docker.com/r/k1low/alpine-pandoc-ja/)
+# alpine-pandoc-ja [![Docker Automated build](https://img.shields.io/docker/automated/k1low/alpine-pandoc-ja.svg?style=flat-square)](https://hub.docker.com/r/k1low/alpine-pandoc-ja/) [![Docker Automated build](https://img.shields.io/docker/build/k1low/alpine-pandoc-ja.svg?style=flat-square)](https://hub.docker.com/r/k1low/alpine-pandoc-ja/) [![GitHub release](https://img.shields.io/github/release/k1low/docker-alpine-pandoc-ja.svg?style=flat-square)](https://github.com/k1LoW/docker-alpine-pandoc-ja/releases)
 
 Pandoc for Japanese based on Alpine Linux.
 
