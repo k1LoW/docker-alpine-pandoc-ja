@@ -51,6 +51,8 @@ RUN apk --no-cache add perl wget xz tar fontconfig-dev \
       > /tmp/src/install-tl-unx/texlive.profile \
  && /tmp/src/install-tl-unx/install-tl \
       --profile=/tmp/src/install-tl-unx/texlive.profile \
+ && tlmgr option repository http://mirror.ctan.org/systems/texlive/tlnet \
+ && tlmgr update --self && tlmgr update --all \
  && tlmgr install \
       collection-basic collection-latex \
       collection-latexrecommended collection-latexextra \
