@@ -56,6 +56,7 @@ RUN apk --no-cache add perl wget xz tar fontconfig-dev \
       collection-latexrecommended collection-latexextra \
       collection-fontsrecommended collection-langjapanese latexmk \
       luatexbase ctablestack fontspec luaotfload lualatex-math \
+      sourcesanspro sourcecodepro \
  && rm -Rf /tmp/src \
  && apk --no-cache del xz tar fontconfig-dev
 
