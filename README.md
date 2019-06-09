@@ -21,5 +21,3 @@ $ docker run -it --rm -v `pwd`:/workspace -v `pwd`/templates:/root/.pandoc/templ
 
 - [portown/alpine-pandoc](https://github.com/portown/alpine-pandoc)
 - [paperist/alpine-texlive-ja](https://github.com/Paperist/docker-alpine-texlive-ja)
-
-
